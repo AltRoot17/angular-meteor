@@ -7,7 +7,7 @@ Package.describe({
 });
 
 Npm.depends({
-  'node-sass': '4.9.2'
+  'node-sass': '4.9.3'
 });
 
 Package.onUse(function (api) {
